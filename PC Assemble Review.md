@@ -11,3 +11,4 @@ Assembling steps:
 Handling care of the components:
 1.	Do not touch the gold plating of the RAM. 
 2.	Ensure cables that have locks are properly locked into place. 
+<img width="375" height="666" alt="image" src="https://github.com/user-attachments/assets/852f8d44-4266-4ecc-98e6-2058b4aed873" />
